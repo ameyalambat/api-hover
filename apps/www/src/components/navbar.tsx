@@ -47,7 +47,7 @@ export default function Navbar() {
             />
           </a>
           <a
-            href="https://github.com/ameyalambat128/api-hover"
+            href="https://github.com/ameyalambat/api-hover"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
